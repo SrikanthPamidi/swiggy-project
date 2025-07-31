@@ -1,0 +1,1 @@
+snowflake is a cloud based data warehouse tool
